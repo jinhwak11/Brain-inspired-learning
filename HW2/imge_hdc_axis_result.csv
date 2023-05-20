@@ -1,0 +1,13 @@
+,dim,prob,acc
+0,256,Gaussian,0.7785
+1,256,Laplacian,0.8041
+2,256,Uniform,0.7978
+3,512,Gaussian,0.8082
+4,512,Laplacian,0.8174
+5,512,Uniform,0.8114
+6,4096,Gaussian,0.823
+7,4096,Laplacian,0.8195
+8,4096,Uniform,0.8217
+9,10000,Gaussian,0.825
+10,10000,Laplacian,0.8254
+11,10000,Uniform,0.8193
